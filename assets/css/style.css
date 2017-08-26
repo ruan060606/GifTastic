@@ -87,7 +87,7 @@ p {
     top: 260px;
 }
 
-button,  .btn{
+button .btn{
 	margin: 10px;
 }
 .imgStyle{
